@@ -3,7 +3,8 @@
     "module": "CommonJS",
     "target": "ESNext",
     "moduleResolution":"node",
-    "strict": true
+    "strict": true,
+    "baseUrl": "./",
   },
   "exclude": [
     "node_modules",
